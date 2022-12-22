@@ -1,5 +1,4 @@
 # System-Software
-System Software Codes
 
 This repository contains most of the codes of SYSTEM SOFTWARE subject 
 The code mainly consists of SIC architecture 
